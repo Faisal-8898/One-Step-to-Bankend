@@ -70,7 +70,6 @@ const {
   catagory: penCatagory,
   price: penPrice,
   discount: dicountOnThePen,
-
   isStock: inStock,
 } = product;
 // console.log(product.rating.averageRating());
